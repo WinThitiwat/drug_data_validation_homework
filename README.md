@@ -1,3 +1,12 @@
+# Project File
+- `config.py` - a Python file containing constant variables
+- `drug_enum.py` - a Python file containing ENUM for categorical data validation and reference
+- `main.py` - the main Python file that receives and validate inputs, and trigger functions according to the input
+- `metadata_analysis.py` - a Python file running analysis about Metadata
+- `mic_analysis.py` - a Python file running analysis about MIC
+- `utils.py` - a Python file containing helper functions for other Python files 
+- `requirements.txt` - a text file containing all mandatory dependencies for the project
+
 
 # Project Setup
 1: Install virtualenv using pip
