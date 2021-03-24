@@ -24,8 +24,9 @@ $ pip3 install -r requirements.txt
 ```
 
 # How-to-run
-1. Make sure the source data is placed in the `data` directory
-2. Run bash script
+1. Create `data` directory if not exist at the root project 
+2. Make sure the source data is placed in the `data` directory that's just created
+3. Run bash script
 ```
 $ bash run_analysis.sh -t <..> -n <..>
 ```
