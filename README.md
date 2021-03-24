@@ -6,7 +6,7 @@
 - `mic_analysis.py` - a Python file running analysis about MIC
 - `utils.py` - a Python file containing helper functions for other Python files 
 - `requirements.txt` - a text file containing all mandatory dependencies for the project
-
+- `run_analysis.sh` - a Bash script file to trigger function according to the input
 
 # Project Setup
 1: Install virtualenv using pip
