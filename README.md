@@ -30,4 +30,4 @@ $ pip3 install -r requirements.txt
 ```
 $ bash run_analysis.sh -t <..> -n <..>
 ```
-`<..>` is referred to argument. Run bash `run_analysis.sh --help` for further info.
+`<..>` is referred to argument. Run `bash run_analysis.sh --help` for further info.
